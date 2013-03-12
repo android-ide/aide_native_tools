@@ -16,3 +16,6 @@
 [submodule "jni/platform/build"]
 	path = jni/platform/build
 	url = git@github.com:hkratz/platform_build
+[submodule "jni/platform/frameworks/native"]
+	path = jni/platform/frameworks/native
+	url = git@github.com:hkratz/platform_frameworks_native
