@@ -1,7 +1,7 @@
 myPATH:= $(call my-dir)
 
 # Include makefiles here.
-#include $(myPATH)/external/expat/Android.mk
+include $(myPATH)/platform/external/expat/Android.mk
 #include $(myPATH)/external/libpng/Android.mk
 #include $(myPATH)/system/core/liblog/Android.mk
 #include $(myPATH)/system/core/libcutils/Android.mk
