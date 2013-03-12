@@ -1,0 +1,3 @@
+[submodule "jni/platform/frameworks/base"]
+	path = jni/platform/frameworks/base
+	url = git@github.com:hkratz/platform_frameworks_base.git
