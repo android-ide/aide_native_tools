@@ -1,21 +1,21 @@
 [submodule "jni/platform/frameworks/base"]
 	path = jni/platform/frameworks/base
-	url = git@github.com:hkratz/platform_frameworks_base.git
+	url = git@github.com:android-ide/platform_frameworks_base.git
 [submodule "jni/platform/system/core"]
 	path = jni/platform/system/core
-	url = git@github.com:hkratz/platform_system_core
+	url = git@github.com:android-ide/platform_system_core
 [submodule "jni/platform/external/zlib"]
 	path = jni/platform/external/zlib
-	url = git@github.com:hkratz/platform_external_zlib
+	url = git@github.com:android-ide/platform_external_zlib
 [submodule "jni/platform/external/expat"]
 	path = jni/platform/external/expat
-	url = git@github.com:hkratz/platform_external_expat
+	url = git@github.com:android-ide/platform_external_expat
 [submodule "jni/platform/external/libpng"]
 	path = jni/platform/external/libpng
-	url = git@github.com:hkratz/platform_external_libpng
+	url = git@github.com:android-ide/platform_external_libpng
 [submodule "jni/platform/build"]
 	path = jni/platform/build
-	url = git@github.com:hkratz/platform_build
+	url = git@github.com:android-ide/platform_build
 [submodule "jni/platform/frameworks/native"]
 	path = jni/platform/frameworks/native
-	url = git@github.com:hkratz/platform_frameworks_native
+	url = git@github.com:android-ide/platform_frameworks_native
