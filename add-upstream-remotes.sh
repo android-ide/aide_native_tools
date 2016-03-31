@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 cd `dirname $0`
 
 (cd jni/platform/build; git remote add upstream https://github.com/android/platform_build.git)
