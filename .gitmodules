@@ -4,9 +4,6 @@
 [submodule "jni/platform/system/core"]
 	path = jni/platform/system/core
 	url = git@github.com:android-ide/platform_system_core
-[submodule "jni/platform/external/zlib"]
-	path = jni/platform/external/zlib
-	url = git@github.com:android-ide/platform_external_zlib
 [submodule "jni/platform/external/expat"]
 	path = jni/platform/external/expat
 	url = git@github.com:android-ide/platform_external_expat
