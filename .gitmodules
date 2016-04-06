@@ -16,3 +16,6 @@
 [submodule "jni/platform/frameworks/native"]
 	path = jni/platform/frameworks/native
 	url = git@github.com:android-ide/platform_frameworks_native
+[submodule "jni/platform/external/safe-iop"]
+	path = jni/platform/external/safe-iop
+	url = git@github.com:android-ide/platform_external_safe-iop.git
